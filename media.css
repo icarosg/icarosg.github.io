@@ -1,0 +1,48 @@
+@media screen and (max-width: 760px) {
+    .border {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        border: 2px solid #cd408f;
+    }
+
+    .text-part1 {
+        padding: 20px;
+    }
+
+    .my-img {
+        padding: 0;
+    }
+    
+    .part2 h1 {
+        font-size: 17px;
+    }
+
+    .part2 strong, .part2 h4, .part2 p {
+        font-size: 10px;
+    }
+
+    .part2 img {
+        width: 20px;
+        padding: 10px;
+        padding-left: 0;
+    }
+
+    .part2 li {
+        font-size: 10px;
+    }
+
+    .part3 h1 {
+        padding: 0;
+        text-align: center;
+    }
+
+    .part3 {
+        padding: 5px;
+        padding-top: 160px;
+    }
+
+    .part4 h1 {
+        text-align: center;
+    }
+}
